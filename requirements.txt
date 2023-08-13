@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-Cors==3.1.1   # If you need to handle Cross-Origin Resource Sharing
+requests==2.26.0    # Just an example of another dependency
+
